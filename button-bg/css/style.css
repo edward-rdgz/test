@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.contenedor{
+	background:url(../img/bg_red.jpg) repeat-x top center #740101;
+	width:300px;
+	height:300px;
+}
+.btnStylo{
+	background:url(../img/bg_boton.jpg) repeat-x top center #740101;
+	border:none;
+	color:#fff;
+	font-weight:bold;
+	padding:10px 20px;
+	text-align:center;
+	border-radius:10px;
+	box-shadow:10px 5px 5px #ACA6A6;
+	cursor:pointer;
+}
+.btnStylo:hover{
+	background:url(bg_boton.jpg) repeat-x bottom center #740101;
+}
+
+
